@@ -1,4 +1,5 @@
-### Hi there 👋
+hola , me llamo soledad pero todos me dicen sol
+estoy estudiando el curso de fundamentos en programacion web 
 
 <!--
 **casas36/casas36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
